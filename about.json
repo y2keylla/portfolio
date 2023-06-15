@@ -1,0 +1,17 @@
+{
+    "description": "Web developer studying IS, Design and Business",
+    "education": {
+        "title": "Academic Education",
+        "position": "Information Systems",
+        "institution": "Inteli",
+        "duration": "2023 - 2026",
+        "link": "https://www.inteli.edu.br/"
+    },
+    "experience": {
+        "title": "Professional Experience",
+        "position": "HR Assistant",
+        "company": "Graded School",
+        "duration": "Mar/22 - Oct/22",
+        "link": "https://www.graded.br/"
+    }
+}
